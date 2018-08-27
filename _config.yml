@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GM&D
-email: your-email@example.com
+email: droram@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Group meetings & Development.
   High tech teams, Create a Group, Real Group.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  drorarm
 
 dror_email: droram@gmail.com
 

@@ -16,6 +16,8 @@ Hello There
 
 <p> rel url : {{ relative_url }}
 
+<p> abs url : {{ absolute_url }}
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.

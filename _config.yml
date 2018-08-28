@@ -18,8 +18,8 @@ email: droram@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Group meetings & Development.
   High tech teams, Create a Group, Real Group.   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gmnd" # the subpath of your site, e.g. /blog
+url: "https://drorarm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  drorarm
 
 dror_email: droram@gmail.com

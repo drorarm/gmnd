@@ -1,3 +1,5 @@
+theme: jekyll-theme-architect
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -26,10 +28,9 @@ github_username:  drorarm
 dror_email: droram@gmail.com
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-architect
-plugins:
-  - jekyll-feed
+#markdown: kramdown
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

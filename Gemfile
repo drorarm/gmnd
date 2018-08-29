@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.7.3"
-gem "jekyll-theme-architect"
+#gem "jekyll-theme-architect"
+gem "freelancer-theme-jekyll"
 gem 'github-pages', group: :jekyll_plugins
 
 # Hello! This is where you manage which Jekyll version is used to run.

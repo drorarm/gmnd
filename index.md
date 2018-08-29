@@ -3,12 +3,10 @@ layout: default
 ---
 
 
-![Octocat]({{ site.url | append: site.baseurl}}/assets/images/gmnd_logo.png)
-
-# Yifat
+# Mor
 Hello There
 
-## I LOVE YOU!
+## This is the start of our website
 
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.

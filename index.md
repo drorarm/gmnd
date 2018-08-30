@@ -16,10 +16,13 @@ Hello There
 
 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lets_tango(l) {
-  dateformat.i18n = require('./two/' + l)
-  return true;
-}
-```
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{site.baseurl | append:  post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+

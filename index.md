@@ -6,6 +6,17 @@ layout: default
 # The Group Idea
 {: #group-idea }
 
+<ul>
+  {% for post in site.posts %}
+   {% if post.category == "group-idea" %}
+    <li>
+      <a href="{{site.baseurl | append:  post.url }}">{{ post.title }}</a>
+    </li>
+   {% endif %}
+  {% endfor %}
+</ul>
+
+
 Why Groups in High Tech?? 
 Are we addicted or somthing and need support?
  
@@ -32,16 +43,21 @@ English Jerusalem lite talk, why are we do that??
 ## Session 6: Save & Exit
 What happens next, define next sprint.
 
-
 [Team Bonding Workshop leaflet]({{ site.url | append: site.baseurl}}/assets/pdfs/ws_leaflet.pdf) 
 
+
+# Pilot
+{: #pilot }
 <ul>
   {% for post in site.posts %}
+   {% if post.category == "pilot" %}
     <li>
       <a href="{{site.baseurl | append:  post.url }}">{{ post.title }}</a>
     </li>
+   {% endif %}
   {% endfor %}
 </ul>
+
 
 
 # About US

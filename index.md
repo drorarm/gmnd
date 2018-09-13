@@ -58,5 +58,12 @@ What happens next, define next sprint.
 
 # About US
 {: #about-us }
- <p> Mor </p>
-<p> Dror </p>
+### Mor Aram
+ I'm a social worker, and trained group facilitator.
+ and I like to communicate, more than all in Hebrew, my language.
+ Can we do that? Thanks
+[Just click here](./mor_in_hebrew.md)     
+ ![Octocat](assets/images/mor.jpg)
+
+### Dror Arm
+ ![Octocat](assets/images/dror.jpg)

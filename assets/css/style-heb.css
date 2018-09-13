@@ -315,15 +315,15 @@ form { padding: 20px; background: #f2f2f2; }
 
 #main-content h1:before { padding-left: 0.3em; margin-right: -0.9em; color: #9ddcff; content: "/"; }
 
-#main-content h2 { margin-bottom: 8px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 22px; font-weight: bold; color: #474747; text-indent: 4px; }
+#main-content h2 { margin-bottom: 8px; font-family: 'Shuneet', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 22px; font-weight: bold; color: #474747; text-indent: 4px; }
 
 #main-content h2:before { padding-left: 0.3em; margin-right: -1.5em; content: "//"; color: #9ddcff; }
 
-#main-content h3 { margin-top: 24px; margin-bottom: 8px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 18px; font-weight: bold; color: #474747; text-indent: 3px; }
+#main-content h3 { margin-top: 24px; margin-bottom: 8px; font-family: 'Shuneet', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 18px; font-weight: bold; color: #474747; text-indent: 3px; }
 
 #main-content h3:before { padding-left: 0.3em; margin-right: -2em; content: "///"; color: #9ddcff; }
 
-#main-content h4 { margin-bottom: 8px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 15px; font-weight: bold; color: #474747; text-indent: 3px; }
+#main-content h4 { margin-bottom: 8px; font-family: 'Shuneet', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 15px; font-weight: bold; color: #474747; text-indent: 3px; }
 
 h4:before { padding-left: 0.3em; margin-right: -2.8em; content: "////"; color: #9ddcff; }
 

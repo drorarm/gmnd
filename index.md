@@ -17,10 +17,6 @@ layout: default
 </ul>
 
 
-Why Groups in High Tech?? 
-Are we addicted or somthing and need support?
- 
-
 # Team Bonding Workshop
 {: #tb-ws }
 Six sessions, 90 minutes per session, hopfully once a week.
@@ -43,7 +39,7 @@ English Jerusalem lite talk, why are we do that??
 ## Session 6: Save & Exit
 What happens next, define next sprint.
 
-[Team Bonding Workshop leaflet]({{ site.url | append: site.baseurl}}/assets/pdfs/ws_leaflet.pdf) 
+[Team Bonding Workshop leaflet]({{ site.url | append: site.baseurl}}/assets/pdfs/ws_leaflet.pdf)
 
 
 # Pilot
@@ -64,4 +60,3 @@ What happens next, define next sprint.
 {: #about-us }
  <p> Mor </p>
 <p> Dror </p>
-

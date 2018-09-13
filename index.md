@@ -66,4 +66,8 @@ What happens next, define next sprint.
  ![Octocat](assets/images/mor.jpg)
 
 ### Dror Arm
+Hello! I have a confession to make, It's true After six years serving the military, IDF, I arrived to the civil high tech and they told me..
+Here we don't write emails in Hebrew, they even laugh about people who wrote in Hebrew.  It's true, it's weird to receive email in Hebrew when you work.
+But I hate it! I've always did! so now in my website I can just do what I want!
+Here is me [in Hebrew](./dror_in_hebrew.md)
  ![Octocat](assets/images/dror.jpg)

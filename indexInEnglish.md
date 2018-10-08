@@ -1,9 +1,9 @@
 ---
-layout: default-heb
+layout: default
 ---
 
 
-# החזון שלנו
+# The Group Idea
 {: #group-idea }
 
 <ul>
@@ -17,7 +17,7 @@ layout: default-heb
 </ul>
 
 
-# סדנת 'התנעת הקבוצה'
+# Team Bonding Workshop
 {: #tb-ws }
 Six sessions, 90 minutes per session, hopfully once a week.
 

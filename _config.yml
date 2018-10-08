@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: GM&D
 email: droram@gmail.com
-description: Group meetings & Development               
-description2:  High Tech teams, createRealGroup   
+description: Group Meetings & Development
+description2:  For High Tech Teams   
 baseurl: "/gmnd" # the subpath of your site, e.g. /blog
 url: "https://drorarm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  drorarm

@@ -1,5 +1,5 @@
 ---
-layout: default-heb
+layout: drors-posts-layouts
 ---
 
 # הפוסטים של דרור

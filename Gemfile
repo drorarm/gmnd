@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.7.4"
 gem "jekyll-theme-architect"
 gem 'github-pages', group: :jekyll_plugins
 

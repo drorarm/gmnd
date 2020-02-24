@@ -7,12 +7,7 @@
     <link rel='stylesheet' href="{{ '/assets/css/heb-fonts.css' | relative_url }}"  type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style-heb.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-{% seo %}
+  {% seo %}
   </head>
 
   <body>
@@ -22,10 +17,6 @@
         <section id="main-content" dir="rtl">
           {{ content }}
         </section>
-
-        <aside id="sidebar">
-		{% include sidebar.html %}
-        </aside>
       </div>
     </div>
 

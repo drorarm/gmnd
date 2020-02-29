@@ -1,8 +1,7 @@
-
 ---
 layout: default-heb
-title: Hello Code  
-date:   2020-02-25
+title: "Hello Code"
+date: 2020-02-25
 category: drors-code
 ---
 

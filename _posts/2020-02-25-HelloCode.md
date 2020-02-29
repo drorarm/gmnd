@@ -1,9 +1,9 @@
 
 ---
 layout: default-heb
-title:  שלום עולם
+title: hello-code  
 date:   2020-02-25
-category: drors-code-posts
+category: drors-code
 ---
 
 # ?קוד בעברית, על הזין שלי למה לא

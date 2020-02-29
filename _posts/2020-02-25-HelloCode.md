@@ -1,5 +1,5 @@
 ---
-layout: default-heb
+layout: clean-layout
 title: "Hello Code"
 date: 2020-02-25
 category: drors-code
@@ -7,7 +7,7 @@ category: drors-code
 
 # ?קוד בעברית, על הזין שלי למה לא
 
-<pre><code>
+<pre dir="ltr"><code>
 #!/bin/bash
 
 echo 'hello posts'

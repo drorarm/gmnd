@@ -1,5 +1,5 @@
 ---
-layout: default-heb
+layout: clean-layout
 title:  "Hello Again"
 date:   2020-02-25
 category: drors-posts

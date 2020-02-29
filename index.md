@@ -20,10 +20,11 @@ layout: drors-posts-layouts
 {: #drors-code }
 
 <ul>
-  {% for post in site.posts %}
-   {% if post.category == "drors-code" %}
+  {% for post2 in site.posts %}
+  check -- {{ post2.title }}
+   {% if post2.category == "drors-code" %}
     <li>
-      <a href="{{site.baseurl | append:  post.url }}">{{ post.title }}</a>
+      <a href="{{site.baseurl | append:  post2.url }}">{{ post2.title }}</a>
     </li>
    {% endif %}
   {% endfor %}

@@ -17,11 +17,11 @@ layout: drors-posts-layouts
 </ul>
 
 ## קצת קוד לא יזיק
-{: #drors-code-posts }
+{: #drors-code }
 
 <ul>
   {% for post in site.posts %}
-   {% if post.category == "drors-code-posts" %}
+   {% if post.category == "drors-code" %}
     <li>
       <a href="{{site.baseurl | append:  post.url }}">{{ post.title }}</a>
     </li>

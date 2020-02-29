@@ -21,7 +21,6 @@ layout: drors-posts-layouts
 
 <ul>
   {% for post2 in site.posts %}
-  check -- {{ post2.title }}
    {% if post2.category == "drors-code" %}
     <li>
       <a href="{{site.baseurl | append:  post2.url }}">{{ post2.title }}</a>
@@ -29,5 +28,3 @@ layout: drors-posts-layouts
    {% endif %}
   {% endfor %}
 </ul>
-
-

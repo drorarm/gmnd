@@ -2,9 +2,9 @@
 layout: drors-posts-layouts
 ---
 
-# קצת עקום 
-## פרויקטים
-{: #drors-projects }
+# הפוסטים של דרור
+## מה יש לי להגיד
+{: #drors-posts }
 
 <ul>
   {% for post in site.posts %}

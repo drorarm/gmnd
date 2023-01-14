@@ -6,14 +6,13 @@ layout: drors-posts-layouts
 ## פרויקטים
 {: #drors-projects }
 
-<ul>
-  {% for post in site.posts %}
-   {% if post.category == "drors-posts" %}
-    <li>
-      <a href="{{site.baseurl | append:  post.url }}">{{ post.title }}</a>
-    </li>
-   {% endif %}
-  {% endfor %}
+<ul>  
+    <li>      
+      ![image Bidet1](/_images/bidet1.jpeg)
+    </li>     
+    <li>      
+      ![image Bidet2](/_images/bidet2.jpeg)
+    </li>     
 </ul>
 
 ## קצת קוד לא יזיק

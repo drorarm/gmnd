@@ -1,18 +1,24 @@
 ---
 layout: drors-posts-layouts
+images:
+  - path: /assets/projects-images/bidet1.jpeg
+    column: 1
+    text: Some text 1
+  - path: /assets/projects-images/bidet2.jpeg
+    column: 2
+    text: Some text 2
 ---
 
 # קצת עקום 
 ## פרויקטים
 {: #drors-projects }
 
-<ul>  
-    <li>      
-      ![image Bidet1](/_images/bidet1.jpeg)
-    </li>     
-    <li>      
-      ![image Bidet2](/_images/bidet2.jpeg)
-    </li>     
+<ul>
+  {% for image in page.images %}
+    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
+      <p>{{ image.text }}</p>
+    </li>
+  {% endfor %}
 </ul>
 
 ## קצת קוד לא יזיק
